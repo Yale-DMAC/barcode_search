@@ -33,9 +33,11 @@ __Enter path to input CSV file__
 
 The tool takes a CSV like the included barcodes.csv example file as input. Be sure to include a header in the CSV file, as the tool skips the first row. At this point the tool will create an output CSV file in the same directory as the input CSV.
 
+If the input CSV file is in the same directory as the executable file then you can just enter the file name (i.e. barcodes.csv) when prompted for the file path. If it is not, then enter the full path to the file (i.e. /Users/username/filepath/barcodes.csv or C:\Users\username\filepath\barcodes.csv).
+
 __Wait...__
 
-The script should continue running even if it encounters an error retrieving data from ArchivesSpace. If for some reason it stops before finishing, please submit an [issue](https://github.com/ucancallmealicia/barcode_search/issues). Please include a description of any error messages received.
+The script should continue running even if it encounters an error retrieving data from ArchivesSpace. If for some reason it stops before finishing, please submit an [issue](https://github.com/ucancallmealicia/barcode_search/issues). Be sure to include a description of any error messages received.
 
 __Review outfiles!__
 
