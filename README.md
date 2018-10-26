@@ -35,7 +35,7 @@ The tool takes a CSV like the included barcodes.csv example file as input. Be su
 
 3. Wait...
 
-The script should continue running even if it encounters an error retrieving data from ArchivesSpace. If it stops, please submit an [issue](https://github.com/ucancallmealicia/barcode_search/issues).
+The script should continue running even if it encounters an error retrieving data from ArchivesSpace. If for some reason it stops before finishing, please submit an [issue](https://github.com/ucancallmealicia/barcode_search/issues). Please include a description of any error messages received.
 
 4. Review outfiles!
 
