@@ -19,7 +19,7 @@ __NOTE:__ If running the executable files, the Python-related requirements will 
 ```
 $ cd /Users/username/pathtofile
 $ python barcode_search.py
-``` 
+```
 
 ## Tutorial
 
@@ -41,7 +41,7 @@ The script should continue running even if it encounters an error retrieving dat
 
 __Review outfiles!__
 
-The tool creates two outfiles - a program log and a CSV outfile containing collection and container data. 
+The tool creates two outfiles - a program log and a CSV outfile containing collection and container data.
 
 The log file contains status and error messages recorded during script runtime.
 
@@ -53,6 +53,7 @@ The following data is included on the output CSV:
 * Collection title
 * Container profile
 * Container number
+* Location
 
 Both files will open automatically after the script finishes.
 
